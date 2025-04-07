@@ -111,3 +111,25 @@ body {
     color: black;
 
 }
+.ingresp{
+    position: absolute;
+    top: 390px;
+    left: 1100px;
+    height: 1000px;
+    width: 650px;
+    text-align: left;
+    font-family: "P";
+    font-size: 70Px;
+    color: black;
+}
+.de{
+    position: absolute;
+    top: 400px;
+    left: 10px;
+    height: 1000px;
+    width: 650px;
+    text-align: left;
+    font-family: "P";
+    font-size: 20px;
+    color: black;
+}
